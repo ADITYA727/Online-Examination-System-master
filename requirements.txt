@@ -163,7 +163,7 @@ srsly==0.2.0
 statsmodels==0.10.1
 stop-words==2018.7.23
 tensorboard==2.0.0
-tensorflow==2.0.0
+tensorflow==2.0.1
 tensorflow-estimator==2.0.1
 termcolor==1.1.0
 terminado==0.8.2
