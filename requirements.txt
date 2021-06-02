@@ -179,7 +179,7 @@ tweepy==3.3.0
 twilio==6.32.0
 twitter==1.18.0
 twitterscraper==0.2.7
-urllib3==1.24.3
+urllib3==1.26.5
 virtualenv==16.7.7
 wasabi==0.3.0
 wcwidth==0.1.7
